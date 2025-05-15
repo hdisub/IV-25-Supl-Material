@@ -1,4 +1,4 @@
-# Supplementary Materials – Appendix
+# Supplementary Materials
 
 This repository contains supplementary materials referenced in the paper.
 
